@@ -42,7 +42,7 @@ An AI-powered Personal Assistant built using **n8n**, **Google Gemini**, **Strea
 
 ## n8n Workflow
 
-![Workflow](code-summarizer.png)
+![Workflow](code-summarizer-workflow.png)
 
 
 # 📂 Project Structure
