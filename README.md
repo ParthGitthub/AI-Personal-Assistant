@@ -36,33 +36,14 @@ An AI-powered Personal Assistant built using **n8n**, **Google Gemini**, **Strea
 
 ## Personal Assistant UI
 
-![Assistant UI](screenshots/assistant-ui.png)
+![Assistant UI](personal-assistant-ui.png)
 
 ---
 
 ## n8n Workflow
 
-![Workflow](screenshots/workflow.png)
+![Workflow](code-summarizer.png)
 
----
-
-## Calendar Management
-
-![Calendar](screenshots/calendar.png)
-
----
-
-## Gmail Integration
-
-![Gmail](screenshots/gmail.png)
-
----
-
-## Expense Tracking
-
-![Expenses](screenshots/expenses.png)
-
----
 
 # 📂 Project Structure
 
@@ -162,8 +143,8 @@ Search today's AI news
 
 **Parth Khandagale**
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (https://www.linkedin.com/in/parth-khandagale-623532243/)
+- GitHub: (https://github.com/ParthGitthub)
 
 ---
 
